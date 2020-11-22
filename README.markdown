@@ -1,3 +1,9 @@
+### Special note
+
+This repository is based on [the original](https://github.com/system-f/fp-course) Functional Programming course containing excercises and corresponding test suites, but populated with my solutions.
+
+### The following is the original description from the [system-f](https://github.com/system-f) repo
+
 # Functional Programming Course
 
 ![System-F](https://system-f.gitlab.io/logo/systemf-450x450.jpg)
