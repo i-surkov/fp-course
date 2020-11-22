@@ -19,6 +19,9 @@ cabal.project.local
 # Intellij IDEA
 /.idea
 
+# VS Code
+.vscode
+
 # darcs
 /_darcs
 
@@ -40,3 +43,10 @@ ops/*.retry
 
 # nix
 result
+
+# project files
+cabal.project
+fp-course.cabal
+Setup.hs
+shell.nix
+stack.yaml*
